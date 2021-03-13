@@ -5,7 +5,7 @@ date: 2020-09-09
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Test
+    - Test Test
     - 한국어
 ---
 
