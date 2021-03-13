@@ -1,5 +1,5 @@
 ---
-title: 한국어
+title: Korean
 description: 한국어 테스트
 date: 2020-09-09
 slug: test-chinese
